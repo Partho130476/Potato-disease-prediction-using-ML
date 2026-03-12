@@ -16,3 +16,5 @@ Features:
 
 Dataset: Potato leaf disease dataset
 Model: CNN trained and saved as model1.h5
+
+Datasets:https://www.kaggle.com/datasets/aarishasifkhan/plantvillage-potato-disease-dataset
