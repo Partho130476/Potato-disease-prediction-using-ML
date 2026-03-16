@@ -122,5 +122,3 @@ http://127.0.0.1:5000
 B.Sc. in Computer Science & Engineering
 North East University Bangladesh
 
-
-Datasets:https://www.kaggle.com/datasets/aarishasifkhan/plantvillage-potato-disease-dataset
